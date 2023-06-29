@@ -18,7 +18,8 @@ You can run the python file to test the performance of different methods followi
 ```
 Python strategy3.py --hg_mode BAMM_CG --BDA --thelr --p0 10 
 Python strongly_convex.py  # For data hyper-cleaning tasks.
-、、、
+```
+
 ### Citation
 
 You are encouraged to cite the following paper:
