@@ -1,4 +1,4 @@
-## sl-BAMM
+## Averaged Method of Multipliers for Bi-Level Optimization without Lower-Level Strong Convexity (sl-BAMM)
 This repo contains code accompaning the paper, Averaged Method of Multipliers for Bi-Level Optimization without Lower-Level Strong Convexity (Liu et al., ICML 2023). It includes code for running the numerical example under LL Merely convex assumption and LL Stronly Convex assumption.
 
 
